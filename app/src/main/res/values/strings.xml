@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Teresia Karanja</string>
+    <string name="yellow_Star">Yellow Star</string>
+    <string name="bio"> <b>Hello.\n </b>
+        My name is Teresia. I am in my mid-20s
+        and I love a lot of thing. I love artistic and creative stuff such as drawing.
+        I also enjoy coding since it is an activity that challenges me.\n
+        <b>This section displays Lorem Ipsum </b>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sodales at justo ut pretium. Donec posuere eu tortor et laoreet. Aliquam vitae tellus tincidunt eros aliquam porttitor. Donec sit amet nisi ultrices, vehicula tellus vitae, varius ligula. Maecenas tempus felis ante, nec sagittis sem scelerisque et. Pellentesque sem velit, maximus a leo vitae, tincidunt imperdiet orci. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam sapien urna, volutpat sed fermentum ac, porttitor gravida arcu. Aliquam faucibus, neque sit amet tincidunt fringilla, metus neque auctor arcu, lacinia luctus dolor ante nec lacus.
+
+Ut vitae orci elit. Duis facilisis tempus lorem non vestibulum. Aenean ipsum tellus, egestas id bibendum ac, consectetur vel leo. Nam vel dapibus lorem, non elementum felis. Phasellus eleifend mi sed finibus bibendum. Sed sodales, ex nec molestie maximus, tortor leo pretium eros, et consectetur tellus nulla id nisl. Aliquam ultrices dui sit amet erat aliquam, bibendum sodales erat sollicitudin. Sed sodales turpis quis nibh accumsan, vestibulum venenatis ex congue. Praesent aliquam venenatis tortor ac tincidunt. Fusce eleifend tempus accumsan. Interdum et malesuada fames ac ante ipsum primis in faucibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Pellentesque non urna sit amet mauris sagittis porta ut in nisi. Nam auctor molestie leo, quis placerat nisi.
+
+Ut quis tortor mollis, tincidunt odio nec, tempor turpis. Proin velit eros, commodo eu diam eu, consectetur porta ex. Vestibulum sagittis, lacus non aliquam finibus, sapien arcu auctor neque, auctor tempor justo neque ut orci. Aenean ac scelerisque velit, vel ullamcorper urna. Duis dictum mi vitae diam ullamcorper, vel luctus orci lobortis. Phasellus auctor suscipit mauris, eu bibendum turpis accumsan in. Fusce eget felis ipsum.
+
+Morbi laoreet non sapien quis eleifend. Sed in sem nunc. Mauris et orci ultrices, dignissim nisi a, tincidunt justo. In nec felis at mi vestibulum auctor. Ut non erat purus. Quisque neque risus, faucibus at rutrum at, facilisis sit amet nulla. Donec quis turpis nec ligula placerat pharetra quis id justo. Sed ipsum metus, ornare et aliquet id, aliquam vel lacus. Donec dictum, augue non pretium pulvinar, tortor odio posuere leo, ut fermentum tellus ante eu arcu. Maecenas ut tellus sit amet turpis interdum finibus. Ut nisl augue, rutrum id molestie ac, porta non diam. Etiam ipsum est, venenatis in magna luctus, aliquet pellentesque justo. Nullam mollis accumsan risus, ultrices egestas urna dictum eu. In sagittis orci nulla, sed semper metus maximus nec. Mauris eu ligula eu ipsum varius efficitur.
+
+Suspendisse posuere tempor augue, vel maximus turpis luctus at. Etiam ac semper sem, blandit pellentesque est. Curabitur tempor vel urna eget lacinia. Nunc egestas felis sodales mauris aliquam rhoncus. Donec at vulputate diam, ut scelerisque libero. Cras eleifend vulputate risus tristique cursus. Cras nunc massa, interdum nec blandit et, lacinia at quam. Praesent vitae diam mollis, porta velit at, placerat enim. Maecenas convallis, ipsum sit amet ullamcorper porttitor, enim felis mollis dui, vel commodo lorem nibh sed velit. Sed sit amet libero in nulla venenatis laoreet. Mauris suscipit mi dolor, id convallis ante ornare nec. Donec dapibus, dui nec bibendum feugiat, purus purus tincidunt ex, congue mattis leo dui vitae mauris. Fusce dui nisl, congue eget mattis nec, porta at quam. Fusce non eros in orci elementum dignissim. Pellentesque tempor, lacus a posuere rutrum, orci felis congue augue, in imperdiet sem sapien non ex.`1
+   </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
